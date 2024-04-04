@@ -1,0 +1,20 @@
+{
+    "name": "Vite React PWA Template",
+    "short_name": "V,R PWA",
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "public/images/koalaTTechLogo192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "public/images/koalattech-logo512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
